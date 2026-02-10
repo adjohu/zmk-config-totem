@@ -43,7 +43,7 @@
             combo_cmd_backtick {
                 timeout-ms = <50>;
                 key-positions = <1 2>;
-                bindings = <&kp LC(GRAVE)>;
+                bindings = <&kp GUI(GRAVE)>;
             };
             combo_exit_cmd_tab_left {
                 timeout-ms = <50>;
@@ -58,7 +58,7 @@
             combo_cmd_tab {
                 timeout-ms = <50>;
                 key-positions = <2 3>;
-                bindings = <&kp LC(TAB)>;
+                bindings = <&kp GUI(TAB)>;
             };
         };
 
